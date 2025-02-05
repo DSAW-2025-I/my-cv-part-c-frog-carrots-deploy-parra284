@@ -1,0 +1,64 @@
+* {
+    font-family: Arial;
+}
+
+
+
+body {
+    background-color:  rgb(0, 174, 240);
+}
+
+header {
+    background-color: rgb(1, 93, 140);
+
+    text-align: center;
+
+    margin: 0 7vw 0 7vw;
+}
+
+main {
+    background-color: white;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    margin: 0 7vw 0 7vw;
+}
+
+
+div {
+    border: black solid 2px;
+
+    flex: 1 1 40%;
+
+    padding: 2vw;
+}
+
+h1 {
+    color: white;
+
+    font-size: 5vh;
+    text-transform: uppercase;
+
+    padding: 2vw;
+    margin: 0;
+}
+
+h2 {
+    font-size: 3vh;
+    text-transform: uppercase;
+
+    margin: 0;
+}
+
+p {
+    font-size: 2vh;
+}
+
+li {
+    font-size: 2vh;
+}
+
+span {
+    font-weight: bold;
+}
