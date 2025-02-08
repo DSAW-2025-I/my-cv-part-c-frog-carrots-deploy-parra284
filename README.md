@@ -85,3 +85,19 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+<br>
+
+# Entregas
+
+## Flexbox froggy
+
+<img src="flexbox-froggy.png" width="500">
+
+## Grid garden
+
+<img src="grid-garden.png" width="500">
+
+## Página desplegada
+
+<https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-parra284/>
